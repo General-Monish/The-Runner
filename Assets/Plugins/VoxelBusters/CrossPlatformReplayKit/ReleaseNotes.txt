@@ -1,0 +1,24 @@
+1.5
+   Deprecated StartRecording(bool enableMicrophone) method
+   Added SetMicrophoneStatus(bool enable) method
+   Added QUALITY_MATCH_SCREEN_SIZE for Android
+   Added callback in StopRecording to get the video path directly
+   Enabled API 29 by default
+   Made compatible with all unity versions (includes 2020)
+
+1.3
+    Get Preview file path
+    Save Preview to gallery
+    Share Recorded preview
+    [Android] Added option to enable external storage permission for saving to gallery on android.
+    [Android] Removed external storage option as now we allow save to gallery API.
+1.2
+    Bug Fixes
+
+1.1
+    Fixed Compatibility with other VB Products
+1.0
+	Initial Release
+	- Record Screen
+    - Share Recorded Video
+

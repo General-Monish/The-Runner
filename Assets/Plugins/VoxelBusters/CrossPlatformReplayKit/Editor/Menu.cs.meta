@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: fb6ae90f9c2aa400d8f4ccb91a3791b5
+labels:
+- Android
+- Capture
+- Commentry
+- Corder
+- Everyplay
+- Gif
+- Ios
+- Record
+- Replay
+- Replaykit
+- Screen
+- Screenrecording
+- Social
+- Video
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

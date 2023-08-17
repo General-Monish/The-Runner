@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 8228fc7fc63ab4f2fba7832027e7e71b
+labels:
+- Android
+- Capture
+- Commentry
+- Corder
+- Everyplay
+- Gif
+- Ios
+- Record
+- Replay
+- Replaykit
+- Screen
+- Screenrecording
+- Social
+- Video
+timeCreated: 1544710807
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--DONT MODIFY HERE. AUTO GENERATED DEPENDENCIES FROM ReplayKitAndroidLibraryDependencies.cs.-->
+<dependencies>
+	<androidPackages>
+		<!--Dependency added for using AndroidX Libraries-->
+		<androidPackage
+			spec="androidx.core:core:1.0.0+" />
+	</androidPackages>
+</dependencies>

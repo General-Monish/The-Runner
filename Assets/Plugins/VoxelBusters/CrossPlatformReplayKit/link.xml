@@ -1,0 +1,10 @@
+﻿<linker>
+	<assembly fullname="mscorlib">
+		<namespace fullname="System.Reflection" preserve="all"/>
+		<type fullname="System.Type" preserve="all"/>
+	</assembly>
+	<assembly fullname="Assembly-CSharp-firstpass">
+		<namespace fullname="VoxelBusters.ReplayKit" preserve="all"/>
+		<namespace fullname="VoxelBusters.ReplayKit.Internal" preserve="all"/>
+	</assembly>
+</linker>
